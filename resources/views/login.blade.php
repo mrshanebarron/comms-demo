@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sign In — Comms</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <script src="/js/tailwind.js"></script>
+    <link rel="stylesheet" href="/css/inter.css">
     <style>* { font-family: 'Inter', sans-serif; }</style>
 </head>
 <body class="min-h-screen bg-gray-50">
